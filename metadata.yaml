@@ -1,5 +1,5 @@
 name: sauceno_search  # 插件的唯一识别名
-desc: auceno搜图,输入 /搜图 后发送你想要搜索的图片即可  # 插件简短描述
+desc: sauceno搜图,输入 /搜图 后发送你想要搜索的图片即可  # 插件简短描述
 help: sauceno搜图,输入 /搜图 后发送你想要搜索的图片即可  # 插件的帮助信息
 version: v1.0.0  # 插件版本号。格式：v1.1.1 或者 v1.1
 author: Hazellol  # 作者
