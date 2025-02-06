@@ -1,10 +1,5 @@
-# helloworld
+# Sauceno!
 
-AstrBot 插件模板
+基于AstrBot 插件模板生产的插件
 
-A template plugin for AstrBot plugin feature
-
-# 支持
-
-[帮助文档](https://astrbot.soulter.top/center/docs/%E5%BC%80%E5%8F%91/%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91/
-)
+需配置sauceno—api，你可以从 https://saucenao.com/user.php 注册并获取
