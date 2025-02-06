@@ -24,7 +24,7 @@ class SauceNAOSearch(Star):
         '''sauceno搜图'''
         user_id = event.get_sender_id()  # 获取用户ID
         USER_STATES[user_id] = time.time()  # 记录用户请求的时间
-        yield event.plain_result("杂鱼~请发送你要查找的图片")  # 提示用户发送图片
+        yield event.plain_result("杂鱼~还得靠我呢!限你30秒内发送你要查找的图片yo~")  # 提示用户发送图片
         await asyncio.sleep(30)  # 等待30秒
         # 如果超时，删除用户状态并通知用户
         if user_id in USER_STATES:
