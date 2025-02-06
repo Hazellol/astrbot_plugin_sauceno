@@ -1,0 +1,8 @@
+{
+    "saucenao_api": {
+        "description": "SauceNAO API Key",
+        "type": "string",
+        "hint": "sauceno搜图api，你可以从https://saucenao.com/user.php注册并获取",
+        "obvious_hint": true
+    }
+}
